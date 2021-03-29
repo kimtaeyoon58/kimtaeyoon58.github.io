@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김태윤"
-  avatar           : "/assets/imeages/cat.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/cat.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "배우는 학생"
   location         : "대한민국"
   email            : "kevin040508@gmail.com"
